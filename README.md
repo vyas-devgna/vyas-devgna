@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/devgna-vyas"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:dkvyas0000@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
+<a href="mailto:vyasdevgna@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
 <a href="https://vyas-devgna.github.io/Portfolio"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=vyas-devgna&color=e8b4b8&style=flat&label=visitors" alt="visitors"/>
 
