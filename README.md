@@ -94,7 +94,7 @@ An elegant Flutter client for [same.energy](https://same.energy) — AI-powered 
 
 <div align="center">
 
-<sub>*"Understand the problem deeply, then build something reliable."*</sub>
+<sub>*"Being weak is nothing to be ashamed of… Staying weak is!"* — Fuegoleon Vermillion</sub>
 
 <br/><br/>
 
