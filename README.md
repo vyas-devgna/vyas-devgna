@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=160&section=header&text=Devgna%20Vyas&fontSize=40&fontColor=e8b4b8&fontAlignY=30&desc=Systems-First%20Engineer&descSize=15&descAlignY=50&descColor=8b949e&animation=fadeIn" width="100%" alt="header"/>
 
+<img src="./sakura.svg" width="100%" alt="sakura"/>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E8B4B8&center=true&vCenter=true&random=false&width=500&lines=Backend+%7C+Networking+%7C+Linux;Cybersecurity+%26+Ethical+Hacking;Published+Researcher+%40+Springer;Flutter+%7C+Python+%7C+Java" alt="Typing SVG" /></a>
 
 <br/>
