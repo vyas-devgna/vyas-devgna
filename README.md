@@ -55,7 +55,23 @@ Visual / text / hybrid AI search · Masonry grid · Collections & bookmarks · O
 #### 🛠️ Tech
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,dart,linux,bash,docker,flutter,git,github,vscode,mysql,firebase&theme=dark&perline=12" alt="tech"/>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css,bash&theme=dark&perline=7" alt="languages"/>
+
+<br/>
+
+**Frameworks & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,flask,gradle,firebase,mysql&theme=dark&perline=5" alt="frameworks"/>
+
+<br/>
+
+**Systems & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,vim,figma&theme=dark&perline=7" alt="tools"/>
+
 </div>
 
 **Certifications:** Crash Course on Python (Google) · Oracle Java Foundations · Introduction to Java · Tools of the Trade: Linux & SQL (Google)
