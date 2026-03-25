@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=160&section=header&text=Devgna%20Vyas&fontSize=40&fontColor=e8b4b8&fontAlignY=30&desc=Systems-First%20Engineer&descSize=15&descAlignY=50&descColor=8b949e&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=160&section=header&text=Devgna%20Vyas&fontSize=42&fontColor=e8b4b8&fontAlignY=30&desc=Systems-First%20Engineer&descSize=16&descAlignY=52&descColor=8b949e&animation=fadeIn&fontAlign=50" width="100%" alt="header"/>
 
 *"Being weak is nothing to be ashamed of… Staying weak is!"* — Fuegoleon Vermillion
 
@@ -22,63 +22,102 @@
 
 ---
 
-#### ✦ About
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
-I'm a BCA student at [CHARUSAT](https://www.charusat.ac.in/) *(2023–2026, Nadiad, India)* with a systems-oriented approach to engineering.
+### <img src="https://img.shields.io/badge/✦_ABOUT-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
 
-My core focus is **backend development**, **networking fundamentals**, **Linux environments**, and **cybersecurity**. I practice ethical hacking and vulnerability research to build things that don't just work — they hold up. I use AI as a productivity multiplier, not a replacement for thinking.
+> I'm a BCA student at [CHARUSAT](https://www.charusat.ac.in/) *(2023–2026, Nadiad, India)* with a systems-oriented approach to engineering.
+
+> My core focus is **backend development**, **networking fundamentals**, **Linux environments**, and **cybersecurity**. I practice ethical hacking and vulnerability research to build things that don't just work — they hold up.
+
+> I use AI as a productivity multiplier, not a replacement for thinking.
 
 ---
 
-#### 📄 Published Research
+### <img src="https://img.shields.io/badge/📄_PUBLISHED_RESEARCH-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
+
+<table><tr><td>
+<br/>
 
 **HERMES: Design and Deployment of a Hybrid AI/ML Network Security System on ARM Clusters for Edge Environments**
-<br/>
-<sub>icSoftComp 2025 · Springer Nature · Dec 2025 · with Prof. Arpankumar G. Raval, CHARUSAT</sub>
+
+<sub>
+
+`icSoftComp 2025` · `Springer Nature` · `December 2025` · with **Prof. Arpankumar G. Raval**, CHARUSAT
+
+</sub>
 
 Hybrid IDS combining signature filtering with a quantized DNN on ARM edge clusters.
 
-`94.7% novel attack detection` · `4.2W/node` · `15 kpps` · `89.3% adversarial robustness` · `67% less energy vs x86`
+| 🎯 Detection | ⚡ Power | 🚀 Throughput | 🛡️ Robustness | 💡 Energy |
+|:---:|:---:|:---:|:---:|:---:|
+| **94.7%** | **4.2W/node** | **15 kpps** | **89.3%** | **67% less** |
 
-<sub>Roles: Methodology · Software · Validation · Formal Analysis · Investigation · Data Curation · Writing · Visualization</sub>
+<sub>
+
+**My roles:** `Methodology` `Software` `Validation` `Formal Analysis` `Investigation` `Data Curation` `Writing` `Visualization`
+
+</sub>
+<br/>
+</td></tr></table>
 
 ---
 
-#### 🚀 Featured — [Same.Energy Android](https://github.com/vyas-devgna/same-energy-android)
+### <img src="https://img.shields.io/badge/🚀_FEATURED_PROJECT-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
+
+<table><tr><td>
+<br/>
+
+**[⚡ Same.Energy Android Client](https://github.com/vyas-devgna/same-energy-android)**
 
 An elegant Flutter client for [same.energy](https://same.energy) — AI-powered visual search with Glassmorphism UI, Riverpod state management, and clean architecture.
 
-Visual / text / hybrid AI search · Masonry grid · Collections & bookmarks · Offline support · GoRouter · Dio networking · Encrypted storage · Adaptive theming
+| Feature | Details |
+|:---|:---|
+| **Search** | Visual / Text / Hybrid AI search with safe-search filtering |
+| **Design** | Glassmorphism surfaces, blur effects, adaptive light & dark themes |
+| **Experience** | Masonry grid, curated feeds, collections, bookmarks, offline support |
+| **Architecture** | Clean Architecture · Riverpod · GoRouter · Dio · Encrypted storage |
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-00D1B2?style=flat-square)
+![Architecture](https://img.shields.io/badge/Clean_Architecture-6C3483?style=flat-square)
+
+<br/>
+</td></tr></table>
 
 ---
 
-#### 🛠️ Tech
+### <img src="https://img.shields.io/badge/🛠️_TECH_STACK-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
 
 <div align="center">
 
-**Languages**
+<img src="https://img.shields.io/badge/Languages-1a1a2e?style=flat-square" height="22"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css,bash&theme=dark&perline=7" alt="languages"/>
 
-<br/>
+<br/><br/>
 
-**Frameworks & Platforms**
+<img src="https://img.shields.io/badge/Frameworks_&_Platforms-1a1a2e?style=flat-square" height="22"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=flutter,flask,gradle,firebase,mysql&theme=dark&perline=5" alt="frameworks"/>
 
-<br/>
+<br/><br/>
 
-**Systems & Tools**
+<img src="https://img.shields.io/badge/Systems_&_Tools-1a1a2e?style=flat-square" height="22"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,vim,figma&theme=dark&perline=7" alt="tools"/>
 
 </div>
 
-**Certifications:** Crash Course on Python (Google) · Oracle Java Foundations · Introduction to Java · Tools of the Trade: Linux & SQL (Google)
+<br/>
+
+> **Certifications:** Crash Course on Python *(Google)* · Oracle Java Foundations · Introduction to Java · Tools of the Trade: Linux & SQL *(Google)*
 
 ---
 
-#### 🐍 Contribution Snake
+### <img src="https://img.shields.io/badge/🐍_CONTRIBUTION_SNAKE-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/output/github-snake-dark.svg" />
