@@ -122,7 +122,54 @@ A secure, location-spoofing resistant attendance logging environment utilizing h
 
 ---
 
-<!-- 5. CONTACT -->
+<!-- 5. INTERACTIVE METRICS CENTER (CLEAN DETAILS DRAW ER) -->
+### <img src="https://img.shields.io/badge/📊_ANALYTICS-e8b4b8?style=for-the-badge&labelColor=0d1117" height="26"/>
+
+<details>
+  <summary><strong>⚡ Click to Expand Interactive Development Analytics & 3D Charts</strong></summary>
+  <br/>
+  
+  <div align="center">
+    
+    <!-- 3D Contribution Graph -->
+    <h4>🧬 3D Isometric Contribution Grid</h4>
+    <img src="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/profile-3d-contrib/profile-night-green.svg" width="90%" alt="3D Isometric Contributions" />
+    
+    <br/><br/>
+    
+    <!-- GitHub Stats Cards -->
+    <h4>📊 GitHub Profile Statistics</h4>
+    <img src="https://github-readme-stats.vercel.app/api?username=vyas-devgna&show_icons=true&theme=tokyonight&border_radius=8&bg_color=0d1117&title_color=e8b4b8&icon_color=e8b4b8&text_color=8b949e&hide_border=true" width="80%" alt="GitHub Stats" />
+    
+    <br/><br/>
+    
+    <!-- Streak Stats -->
+    <h4>🔥 Coding Streak Metrics</h4>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&theme=tokyonight&border_radius=8&background=0d1117&ring=e8b4b8&fire=e8b4b8&currStreakLabel=e8b4b8&sideNums=8b949e&sideLabels=8b949e&hide_border=true" width="80%" alt="Coding Streak" />
+    
+    <br/><br/>
+    
+    <!-- Language Stats -->
+    <h4>🗂️ Language Breakdown</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyas-devgna&layout=compact&theme=tokyonight&border_radius=8&bg_color=0d1117&title_color=e8b4b8&text_color=8b949e&hide_border=true" width="80%" alt="Top Languages" />
+    
+    <br/><br/>
+    
+    <!-- Dynamic Contribution Snake -->
+    <h4>🐍 Interactive Contribution Snake</h4>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/dist/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/dist/github-contribution-grid-snake.svg" />
+      <img src="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/dist/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake" />
+    </picture>
+    
+  </div>
+  <br/>
+</details>
+
+---
+
+<!-- 6. CONTACT -->
 ### <img src="https://img.shields.io/badge/📫_CONTACT-e8b4b8?style=for-the-badge&labelColor=0d1117" height="26"/>
 
 <p align="center">
