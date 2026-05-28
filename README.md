@@ -1,29 +1,19 @@
 <div style="font-family: 'Outfit', 'Inter', 'Segoe UI', -apple-system, sans-serif;">
 
-<!-- Header Banner: Premium Rose Gold Gradient -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Devgna%20Vyas&fontSize=46&fontColor=e8b4b8&fontAlignY=32&desc=Systems-First%20Engineer%20%7C%20Security%20Researcher&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" alt="Devgna Vyas Header" />
-</p>
+<h1 align="center">Devgna Vyas</h1>
+<p align="center">Systems Architect | Cybersecurity Researcher | Flutter Developer</p>
 
-<!-- Typographical Subtitle & Typing Effect -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E8B4B8&center=true&vCenter=true&width=600&lines=Backend+Engineering;Network+Security+%26+Linux;Published+Researcher+%40+Springer;Flutter+%7C+Python+%7C+Java+%7C+Dart" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- Premium Unified Interaction Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/devgna-vyas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://vyas-devgna.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23E8B4B8.svg?style=flat-square&logo=googlechrome&logoColor=0d1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-%23E8B4B8.svg?style=flat-square&labelColor=0d1117" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:vyasdevgna@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square" alt="Email" />
   </a>
 </p>
 
@@ -33,136 +23,71 @@
 
 <hr size="1" color="#1e293b" />
 
-<!-- 1. ABOUT SECTION -->
-### <img src="https://img.shields.io/badge/✦_ABOUT-e8b4b8?style=for-the-badge&labelColor=0d1117" height="26"/>
+### About
 
-> I am a BCA student at **Charotar University of Science and Technology (CHARUSAT)** *(2023–2026)* with a systems-oriented engineering mindset. 
->
-> My focus centers on **backend architecture**, **networking fundamentals**, **Linux kernels**, and **vulnerability research**. I build software designed to stand up under pressure, focusing on speed, resource constraints, and security integrity.
+I am a BCA student at Charotar University of Science and Technology (CHARUSAT), Smt. Chandaben Mohanbhai Patel Institute of Computer Applications (CMPICA), pursuing studies from 2023 to 2026. 
+
+My work is systems-first, centering on backend development, networking protocols, Linux environments, and vulnerability research. I focus on developing lightweight, highly optimized, and secure systems tailored for resource-constrained architectures.
 
 ---
 
-<!-- 2. PUBLISHED RESEARCH -->
-### <img src="https://img.shields.io/badge/📄_PUBLISHED_RESEARCH-e8b4b8?style=for-the-badge&labelColor=0d1117" height="26"/>
-
-<br/>
+### Published Research
 
 **HERMES: Design and Deployment of a Hybrid AI/ML Network Security System on ARM Clusters for Edge Environments**  
-*Published in Springer Nature Series (CCIS) · Presented at icSoftComp 2025*  
-*Co-authored with **Prof. Arpankumar G. Raval**, CHARUSAT*
+*Published in Springer Nature Series (Communications in Computer and Information Science) | Presented at icSoftComp 2025*  
+*Co-authored with Prof. Arpankumar G. Raval, CHARUSAT*
 
-* **The Architecture**: Hybrid Intrusion Detection System (IDS) combining signature-based filtering with quantized Deep Neural Networks (DNN) optimized for edge deployment.
-* **The Contribution**: Responsible for system methodology, software validation, data curation, formal analysis, and visual representations.
+This research develops a hybrid network Intrusion Detection System (IDS) combining signature-based filtering with quantized Deep Neural Networks (DNN) designed specifically for real-time security on ARM edge clusters. My contributions focused on system methodology, software validation, data curation, formal analysis, and visual representations.
 
-| Metric | 🎯 Detection Accuracy | ⚡ Node Power Draw | 🚀 Packet Throughput | 🔋 Energy Efficiency |
-| :--- | :---: | :---: | :---: | :---: |
-| **Value** | **94.7%** | **4.2W / node** | **15 kpps** | **67% reduction** |
-
-<br/>
-
----
-
-<!-- 3. FEATURED WORK -->
-### <img src="https://img.shields.io/badge/🚀_FEATURED_PROJECTS-e8b4b8?style=for-the-badge&labelColor=0d1117" height="26"/>
-
-#### ⚡ Same.Energy Android Client
-An elegant, native-feeling client for the [Same.Energy](https://same.energy) semantic visual search engine. 
-* **State & Design**: Features rich glassmorphism UI, masonry grids, custom gesture physics, and Riverpod-driven state management.
-* **Architecture**: Strictly follows clean architectural boundaries utilizing GoRouter, Dio client, and encrypted storage keys.
-* **Tech Stack**: `Flutter` • `Dart` • `Riverpod` • `Clean Architecture`
-
-#### 🔒 Smart Attendance System
-A secure, location-spoofing resistant attendance logging environment utilizing hardware boundaries.
-* **Mechanism**: Combines real-time facial recognition (OpenCV) with BLE triangulation to prevent remote check-in fraud.
-* **Optimization**: Uses low-latency local SQLite database indexing to process check-ins in under 500ms.
-* **Tech Stack**: `Python` • `OpenCV` • `SQLite` • `Bluetooth LE`
+| Evaluation Metric | Target / Output Value |
+| :--- | :--- |
+| Detection Accuracy | 94.7% |
+| Node Power Draw | 4.2W / node |
+| Packet Throughput | 15 kpps |
+| Energy Efficiency | 67% reduction in consumption |
 
 ---
 
-<!-- 4. TECH STACK -->
-### <img src="https://img.shields.io/badge/🛠️_TECH_STACK-e8b4b8?style=for-the-badge&labelColor=0d1117" height="26"/>
+### Engineering Projects
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center"><strong>Core Languages</strong></td>
-      <td align="center"><strong>Frameworks & Platforms</strong></td>
-      <td align="center"><strong>Systems & DevOps</strong></td>
-    </tr>
-    <tr>
-      <td valign="top">
-        • Java<br/>
-        • Python<br/>
-        • Dart<br/>
-        • JavaScript<br/>
-        • C<br/>
-        • Bash Scripting
-      </td>
-      <td valign="top">
-        • Flutter<br/>
-        • Flask<br/>
-        • SQLite / MySQL<br/>
-        • Firebase<br/>
-        • Gradle
-      </td>
-      <td valign="top">
-        • Linux (Debian/Arch)<br/>
-        • Docker Containers<br/>
-        • Git & GitHub CI/CD<br/>
-        • Wireshark / Nmap<br/>
-        • iptables Firewalls
-      </td>
-    </tr>
-  </table>
+#### Same.Energy Android Client
+An asynchronous, gesture-driven client built using Flutter and Dart for Same.Energy's semantic visual search engine.
+* **State Management**: Uses Riverpod with a strict Clean Architecture boundary.
+* **UX/UI**: Features a smooth masonry feed with physics-based gesture responses and image pre-fetching.
+* **Integrations**: Implements Dio rest client and encrypted secure storage keys.
 
-</div>
-
-> **Specialized Training & Certifications:** Google Crash Course on Python • Oracle Java Foundations • Google Tools of the Trade: Linux & SQL
+#### Smart Attendance System
+A secure attendance tracking system designed to resist network and location spoofing.
+* **Core Logic**: Combines real-time facial recognition via OpenCV with local Bluetooth Low Energy (BLE) beacon triangulation to verify physical presence.
+* **Database**: Built with SQLite using indexing optimized for processing check-ins in under 500ms.
+* **Tech Stack**: Python, OpenCV, SQLite, BLE.
 
 ---
 
-<!-- 5. DEVELOPMENT ACTIVITY GRAPH & STATS (CLEAN OPEN STACK) -->
-### <img src="https://img.shields.io/badge/📊_ANALYTICS-e8b4b8?style=for-the-badge&labelColor=0d1117" height="26"/>
+### Technology Stack
 
-<br/>
-
-<div align="center">
-  
-  <!-- 3D Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/profile-3d-contrib/profile-night-green.svg" width="95%" alt="3D Isometric Contributions" />
-  
-  <br/><br/>
-  
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vyas-devgna&show_icons=true&theme=tokyonight&border_radius=8&bg_color=0d1117&title_color=e8b4b8&icon_color=e8b4b8&text_color=8b949e&hide_border=true" width="80%" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&theme=tokyonight&border_radius=8&background=0d1117&ring=e8b4b8&fire=e8b4b8&currStreakLabel=e8b4b8&sideNums=8b949e&sideLabels=8b949e&hide_border=true" width="80%" alt="Coding Streak" />
-
-</div>
-
-<br/>
+| Architecture Layer | Technologies |
+| :--- | :--- |
+| Core Languages | Java, Python, Dart, JavaScript, C, Bash Scripting |
+| Frameworks & Databases | Flutter, Flask, SQLite, MySQL, Firebase, Gradle |
+| Systems & Networking | Linux (Debian/Arch), Docker, Git, Wireshark, Nmap, iptables |
 
 ---
 
-<!-- 6. CONTACT -->
-### <img src="https://img.shields.io/badge/📫_CONTACT-e8b4b8?style=for-the-badge&labelColor=0d1117" height="26"/>
+### Development Activity
 
 <p align="center">
-  I am always open to discussing backend systems development, Linux networking setups, and cybersecurity research.
+  <img src="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/profile-3d-contrib/profile-night-view.svg" width="90%" alt="GitHub Profile 3D Contributions" onerror="this.src='./profile-3d-contrib/profile-night-view.svg'" />
 </p>
 
-<p align="center">
-  <a href="https://vyas-devgna.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=e8b4b8&border=1&labelColor=0d1117" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/devgna-vyas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e8b4b8&border=1&labelColor=0d1117" alt="LinkedIn" />
-  </a>
-</p>
+---
+
+### Contact & Collaboration
+
+I am open to discussions regarding backend systems design, network security audits, and cross-platform mobile architecture.
+
+* **Portfolio**: [vyas-devgna.github.io/Portfolio](https://vyas-devgna.github.io/Portfolio)
+* **LinkedIn**: [linkedin.com/in/devgna-vyas](https://linkedin.com/in/devgna-vyas)
+* **Email**: [vyasdevgna@gmail.com](mailto:vyasdevgna@gmail.com)
 
 </div>
