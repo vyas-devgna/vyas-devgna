@@ -69,12 +69,6 @@ An elegant, native-feeling client for the [Same.Energy](https://same.energy) sem
 * **Architecture**: Strictly follows clean architectural boundaries utilizing GoRouter, Dio client, and encrypted storage keys.
 * **Tech Stack**: `Flutter` • `Dart` • `Riverpod` • `Clean Architecture`
 
-#### 🏫 CHARUSAT eGov Portal App
-The official mobile application serving the administrative and academic needs of CHARUSAT university.
-* **Integrations**: Handles grade reports, course registration timelines, and encrypted user authentication (JWT).
-* **Security**: Implements secure client-side database storage and TLS-hardened API connections.
-* **Tech Stack**: `Flutter` • `Dart` • `Android SDK` • `RESTful Services`
-
 #### 🔒 Smart Attendance System
 A secure, location-spoofing resistant attendance logging environment utilizing hardware boundaries.
 * **Mechanism**: Combines real-time facial recognition (OpenCV) with BLE triangulation to prevent remote check-in fraud.
