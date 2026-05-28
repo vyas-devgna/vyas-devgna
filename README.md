@@ -1,3 +1,5 @@
+<div style="font-family: 'Outfit', 'Inter', 'Segoe UI', -apple-system, sans-serif;">
+
 <!-- Header Banner: Premium Rose Gold Gradient -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Devgna%20Vyas&fontSize=46&fontColor=e8b4b8&fontAlignY=32&desc=Systems-First%20Engineer%20%7C%20Security%20Researcher&descSize=16&descAlignY=55&descColor=8b949e&animation=fadeIn" width="100%" alt="Devgna Vyas Header" />
@@ -136,3 +138,5 @@ A secure, location-spoofing resistant attendance logging environment utilizing h
     <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=e8b4b8&border=1&labelColor=0d1117" alt="LinkedIn" />
   </a>
 </p>
+
+</div>
