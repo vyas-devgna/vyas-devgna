@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=05122A&height=120&section=header&text=Devgna%20Vyas&fontSize=42&fontColor=ffffff&desc=Systems%20Security%20%7C%20Backend%20Architect&descSize=16&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%" alt="Devgna Vyas Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=05122A&height=120&section=header&text=Devgna%20Vyas&fontSize=42&fontColor=ffffff&descAlignY=62&descColor=8b949e&animation=fadeIn" width="100%" alt="Devgna Vyas Header" />
 </p>
 
 ### Hello there!
