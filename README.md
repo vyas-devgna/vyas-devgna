@@ -1,128 +1,185 @@
-﻿<div align="center">
+<!-- Header Banner: Wave Gradient Style -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=220&section=header&text=Devgna%20Vyas&fontSize=52&fontColor=00f2fe&animation=fadeIn&theme=dark" width="100%" alt="Devgna Vyas Header" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=160&section=header&text=Devgna%20Vyas&fontSize=42&fontColor=e8b4b8&fontAlignY=30&desc=Systems-First%20Engineer&descSize=16&descAlignY=52&descColor=8b949e&animation=fadeIn&fontAlign=50" width="100%" alt="header"/>
+<!-- Dynamic Typing Effect Subtitle -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00f2fe&center=true&vCenter=true&width=500&lines=Systems+Engineer;Cybersecurity+Researcher;Flutter+%2F+Dart+Developer;Linux+%26+Networking+Architect" alt="Typing SVG" />
+  </a>
+</p>
 
-*"Being weak is nothing to be ashamed of… Staying weak is!"* — Fuegoleon Vermillion
+<!-- Sleek Flat Interaction Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/devgna-vyas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://vyas-devgna.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300F2FE.svg?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="mailto:vyasdevgna@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E8B4B8&center=true&vCenter=true&random=false&width=500&lines=Backend+%7C+Networking+%7C+Linux;Cybersecurity+%26+Ethical+Hacking;Published+Researcher+%40+Springer;Flutter+%7C+Python+%7C+Java" alt="Typing SVG" /></a>
+<hr size="1" color="#1e293b" />
 
-<br/>
+<!-- 1. EXECUTIVE PITCH / BIO -->
+## 🔭 Executive Brief
 
-<a href="https://linkedin.com/in/devgna-vyas"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:dkvyas0000@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
-<a href="https://vyas-devgna.github.io/Portfolio"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+I am a systems-focused developer and security researcher specializing in the intersection of **hybrid network security**, **Linux infrastructure**, and **cross-platform client applications**. Currently pursuing my **BCA** at **CHARUSAT / CMPICA**, my engineering philosophy is rooted in optimization: building robust, lightweight, and low-latency code for secure edge environments.
 
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-
-### <img src="https://img.shields.io/badge/✦_ABOUT-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
-
-> I'm a BCA student at [CHARUSAT](https://www.charusat.ac.in/) *(2023–2026, Nadiad, India)* with a systems-oriented approach to engineering.
-
-> My core focus is **backend development**, **networking fundamentals**, **Linux environments**, and **cybersecurity**. I practice ethical hacking and vulnerability research to build things that don't just work — they hold up.
-
-> I use AI as a productivity multiplier, not a replacement for thinking.
-
----
-
-### <img src="https://img.shields.io/badge/📄_PUBLISHED_RESEARCH-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
-
-<table><tr><td>
-<br/>
-
-**HERMES: Design and Deployment of a Hybrid AI/ML Network Security System on ARM Clusters for Edge Environments**
-
-<sub>
-
-icSoftComp 2025 · Springer Nature · December 2025 · with **Prof. Arpankumar G. Raval**, CHARUSAT
-
-</sub>
-
-Hybrid IDS combining signature filtering with a quantized DNN on ARM edge clusters.
-
-| 🎯 Detection | ⚡ Power | 🚀 Throughput | 🛡️ Robustness | 💡 Energy |
-|:---:|:---:|:---:|:---:|:---:|
-| **94.7%** | **4.2W/node** | **15 kpps** | **89.3%** | **67% less** |
-
-<sub>
-
-**My roles:** Methodology Software Validation Formal Analysis Investigation Data Curation Writing Visualization
-
-</sub>
-<br/>
-</td></tr></table>
+- 🛡️ **Primary Focus**: Designing network intrusion detection systems, custom ARM cluster orchestrations, and Linux kernel hardening.
+- 📱 **Client Engineering**: Architecting premium, state-managed applications using Flutter and Dart.
+- 🔬 **Research & Standards**: Developing AI-driven network intelligence models for resource-constrained architectures.
 
 ---
 
-### <img src="https://img.shields.io/badge/🚀_FEATURED_PROJECT-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
+<!-- 2. PUBLISHED RESEARCH SPOTLIGHT -->
+## 🔬 Published Research
 
-<table><tr><td>
-<br/>
-
-**[⚡ Same.Energy Android Client](https://github.com/vyas-devgna/same-energy-android)**
-
-An elegant Flutter client for [same.energy](https://same.energy) — AI-powered visual search with Glassmorphism UI, Riverpod state management, and clean architecture.
-
-| Feature | Details |
-|:---|:---|
-| **Search** | Visual / Text / Hybrid AI search with safe-search filtering |
-| **Design** | Glassmorphism surfaces, blur effects, adaptive light & dark themes |
-| **Experience** | Masonry grid, curated feeds, collections, bookmarks, offline support |
-| **Architecture** | Clean Architecture · Riverpod · GoRouter · Dio · Encrypted storage |
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00D1B2?style=flat-square)
-![Architecture](https://img.shields.io/badge/Clean_Architecture-6C3483?style=flat-square)
-
-<br/>
-</td></tr></table>
+> [!IMPORTANT]
+> ### [HERMES: Design and Deployment of a Hybrid AI/ML Network Security System on ARM Clusters for Edge Environments](https://www.researchgate.net/profile/Devgna-Vyas)
+> **Published in Springer CCIS Series — Presented at icSoftComp 2025**  
+> *Co-Authored with Prof. Arpankumar G. Raval*
+> 
+> * **The Core Breakthrough**: Designed a lightweight, hybrid network security paradigm that pairs high-throughput signature filtering with a quantized Deep Neural Network (DNN) classifier.
+> * **Hardware Target**: Optimized explicitly for resource-constrained ARM-based edge clusters, ensuring real-time inline detection without performance degradation.
+> * **Key Results**: Achieved sub-millisecond classification latencies and a significant reduction in false-positive rates compared to traditional edge firewalls.
 
 ---
 
-### <img src="https://img.shields.io/badge/🛠️_TECH_STACK-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
+<!-- 3. FEATURED CODEBASES -->
+## 🛠️ Featured Engineering Projects
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Languages-1a1a2e?style=flat-square" height="22"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,dart,js,html,css,bash&theme=dark&perline=7" alt="languages"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Frameworks_&_Platforms-1a1a2e?style=flat-square" height="22"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,flask,gradle,firebase,mysql&theme=dark&perline=5" alt="frameworks"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Systems_&_Tools-1a1a2e?style=flat-square" height="22"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,vim,figma&theme=dark&perline=7" alt="tools"/>
-
-</div>
-
-<br/>
-
-> **Certifications:** Crash Course on Python *(Google)* · Oracle Java Foundations · Introduction to Java · Tools of the Trade: Linux & SQL *(Google)*
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Same.Energy Android Client</h3>
+      <p>A native-feeling, gesture-optimized Android client for the <a href="https://same.energy/">Same.Energy</a> semantic visual search engine.</p>
+      <ul>
+        <li><strong>Tech Stack:</strong> Flutter, Dart, Restful API Integration.</li>
+        <li>Custom physics-based grid animations and multi-directional scrolling.</li>
+        <li>Memory-efficient image caching and asynchronous network pipeline.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/vyas-devgna">View Repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏫 CHARUSAT eGov App</h3>
+      <p>The official mobile interface for the Charotar University of Science and Technology administrative portal.</p>
+      <ul>
+        <li><strong>Tech Stack:</strong> Flutter, Dart, Android SDK, JWT-Auth.</li>
+        <li>Features secure real-time grade checking, course registrations, and notifications.</li>
+        <li>Encrypted secure storage for sensitive credentials.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/vyas-devgna">View Repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔒 Smart Attendance System</h3>
+      <p>An automated, tamper-proof attendance environment using computer vision and local IoT protocols.</p>
+      <ul>
+        <li><strong>Tech Stack:</strong> Python, OpenCV, SQLite, BLE.</li>
+        <li>Automated facial recognition and local Bluetooth triangulation to prevent location spoofing.</li>
+        <li>Optimized low-overhead database indexing for sub-second check-in processing.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/vyas-devgna">View Repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐧 Linux SysOps & Labs</h3>
+      <p>A collection of custom scripts, server profiles, and kernel hardening scripts compiled during network security audits.</p>
+      <ul>
+        <li><strong>Tech Stack:</strong> Bash, Docker, Wireshark, iptables.</li>
+        <li>Automated vulnerability scanning scripts and system telemetry hooks.</li>
+        <li>Containerized lab structures for networking and intrusion analysis.</li>
+      </ul>
+      <p align="right"><a href="https://github.com/vyas-devgna">View Repository →</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### <img src="https://img.shields.io/badge/🐍_CONTRIBUTION_SNAKE-e8b4b8?style=for-the-badge&labelColor=0d1117" height="28"/>
+<!-- 4. DYNAMIC SKILLS TIERS -->
+## 💻 Core Technology Stack
 
+```mermaid
+graph TD
+    A[Systems Architect & Security] --> B[Linux & Networking]
+    A --> C[Backend Core & ML]
+    A --> D[Cross-Platform Client]
+    
+    B --> B1[iptables / Wireshark / Docker]
+    C --> C1[Python / Java / SQLite]
+    D --> D1[Flutter / Dart / Android]
+```
+
+### 📂 Structural Breakdown
+
+| Layer | Technologies & Frameworks | Tools & Platforms |
+| :--- | :--- | :--- |
+| **Systems & Sec** | `C` • `Bash` • `TCP/IP` • `Linux (Arch/Debian)` | `Docker` • `Wireshark` • `Nmap` • `Git` • `IPtables` |
+| **Backend & Logic** | `Python` • `Java` • `JavaScript` • `SQL` | `Node.js` • `SQLite` • `TensorFlow Lite` |
+| **Mobile & Client** | `Dart` • `Flutter` • `Android Native` | `Material Design` • `BLoC Pattern` • `REST Client` |
+
+---
+
+<!-- 5. INTERACTIVE ACTIVITY HUB -->
+## 📊 Development Activity & Metrics
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Real-time GitHub Stats</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=vyas-devgna&show_icons=true&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9&hide_border=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔥 Current Coding Streak</h4>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&theme=tokyonight&border_radius=10&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideNums=c9d1d9&sideLabels=c9d1d9&hide_border=true" width="100%" alt="Coding Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗂️ Language Distribution</h4>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyas-devgna&layout=compact&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&hide_border=true" width="100%" alt="Top Languages" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧬 Isometric Contribution Grid</h4>
+      <!-- Automatically generated by .github/workflows/profile-3d.yml -->
+      <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Isometric Contributions" onerror="this.src='https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/profile-3d-contrib/profile-green-animate.svg'" />
+    </td>
+  </tr>
+</table>
+
+### 🎮 Contribution Snake Grid
+<!-- Automatically generated by .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/output/github-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+  <img src="./dist/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" onerror="this.src='https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/dist/github-contribution-grid-snake-dark.svg'" />
 </picture>
 
 ---
 
-<div align="center">
+<!-- 6. CONTACT & OUTRO -->
+## 📫 Let's Connect & Collaborate
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" width="100%" alt="footer"/>
+<p align="center">
+  Let's build secure infrastructure or develop premium applications. You can contact me via the channels below:
+</p>
 
-</div>
+<p align="center">
+  <a href="https://vyas-devgna.github.io/Portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/devgna-vyas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed with precision. Integrated with GitHub Actions. 🛡️</sub>
+</p>
