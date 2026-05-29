@@ -2,35 +2,41 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # Runs daily at 18:00 UTC (11:30 PM IST)
-  workflow_dispatch: # Allows manual trigger from the Actions tab
+    - cron: "0 18 * * *" # Daily at 18:00 UTC / 11:30 PM IST
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-3d-contrib
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate 3D contribution graphs
+      - name: Generate 3D contribution assets
         uses: yoshi389111/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit and Push changes
+      - name: Commit generated SVG assets
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A .
-          if ! git diff --cached --quiet; then
-            git commit -m "Auto-update 3D contribution graphs [skip ci]"
-            git pull --rebase origin main
-            git push origin main
-          else
-            echo "No changes in 3D contribution graphics."
+          git add profile-3d-contrib/
+
+          if git diff --cached --quiet; then
+            echo "No 3D contribution asset changes."
+            exit 0
           fi
+
+          git commit -m "chore: update 3D contribution graph [skip ci]"
+          git push
