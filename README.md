@@ -223,7 +223,7 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 - Tutoring: [vyas-devgna.github.io/Tutoring](https://vyas-devgna.github.io/Tutoring/)
 - GitHub: [github.com/vyas-devgna](https://github.com/vyas-devgna)
 - LinkedIn: [linkedin.com/in/devgna-vyas](https://linkedin.com/in/devgna-vyas)
-- Email: [devgnav@gmail.com](mailto:devgnav@gmail.com)
+- Email: [vyasdevgna@gmail.com](mailto:vyasdevgna@gmail.com)
 - Research: [HERMES on Springer](https://doi.org/10.1007/978-3-032-22062-2_24)
 
 ---
