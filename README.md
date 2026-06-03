@@ -218,13 +218,9 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 ## SUPPORT ME
 
 <p align="center">
-  <iframe src="https://github.com/sponsors/vyas-devgna/button" title="Sponsor vyas-devgna" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chai4.me/vyasdevgna" target="_blank" rel="noopener noreferrer" title="Support vyasdevgna on Chai4Me"><img src="https://vyas-devgna.github.io/Portfolio/images/chai4me-support.png" alt="Chai4Me @vyasdevgna" height="56" style="border:0;vertical-align:middle;" /></a>
-</p>
-
-<p align="center">
-  <a href="https://vyas-devgna.github.io/Portfolio/donate.html"><strong>Support page →</strong></a>
+  <a href="https://github.com/sponsors/vyas-devgna"><img src="https://img.shields.io/badge/Sponsor-@vyas--devgna-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor @vyas-devgna on GitHub" height="32" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://chai4.me/vyasdevgna"><img src="https://vyas-devgna.github.io/Portfolio/images/chai4me-support.png" alt="Chai4Me @vyasdevgna" height="56" /></a>
 </p>
 
 ---
@@ -234,7 +230,6 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 **Open to:** internships, freelance web/mobile work, backend systems, academic software, security-focused engineering discussions, tutoring enquiries, and practical project collaborations.
 
 - Portfolio: [vyas-devgna.github.io/Portfolio](https://vyas-devgna.github.io/Portfolio/)
-- Support: [vyas-devgna.github.io/Portfolio/donate.html](https://vyas-devgna.github.io/Portfolio/donate.html)
 - Tutoring: [vyas-devgna.github.io/Tutoring](https://vyas-devgna.github.io/Tutoring/)
 - GitHub: [github.com/vyas-devgna](https://github.com/vyas-devgna)
 - LinkedIn: [linkedin.com/in/devgna-vyas](https://linkedin.com/in/devgna-vyas)
