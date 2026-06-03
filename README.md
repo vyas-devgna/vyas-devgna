@@ -215,11 +215,26 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 
 ---
 
+## SUPPORT ME
+
+<p align="center">
+  <a href="https://github.com/sponsors/vyas-devgna" target="_blank" title="Sponsor vyasdevgna on GitHub" style="display:inline-flex;flex-direction:column;align-items:center;justify-content:center;background:#ffffff;padding:8px 32px;border-radius:16px;text-decoration:none;border:1px solid #e5e7eb;box-shadow:0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -2px rgba(0,0,0,0.05);transition:transform 0.2s;"><img src="https://github.githubassets.com/images/icons/spotlights/heart.png" alt="GitHub Sponsors" style="height:32px;width:32px;object-fit:contain;margin-bottom:4px;"/><span style="color:#6b7280;font-family:sans-serif;font-size:14px;font-weight:600;">@vyas-devgna</span></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://chai4.me/vyasdevgna" target="_blank" title="Support vyasdevgna on Chai4Me" style="display:inline-flex;flex-direction:column;align-items:center;justify-content:center;background:#ffffff;padding:8px 32px;border-radius:16px;text-decoration:none;border:1px solid #e5e7eb;box-shadow:0 4px 6px -1px rgba(0,0,0,0.05), 0 2px 4px -2px rgba(0,0,0,0.05);transition:transform 0.2s;"><img src="https://chai4.me/icons/wordmark.png" alt="Chai4Me" style="height:32px;object-fit:contain;margin-bottom:4px;"/><span style="color:#6b7280;font-family:sans-serif;font-size:14px;font-weight:600;">@vyasdevgna</span></a>
+</p>
+
+<p align="center">
+  <a href="https://vyas-devgna.github.io/Portfolio/donate.html"><strong>Support page →</strong></a>
+</p>
+
+---
+
 ## CONTACT
 
 **Open to:** internships, freelance web/mobile work, backend systems, academic software, security-focused engineering discussions, tutoring enquiries, and practical project collaborations.
 
 - Portfolio: [vyas-devgna.github.io/Portfolio](https://vyas-devgna.github.io/Portfolio/)
+- Support: [vyas-devgna.github.io/Portfolio/donate.html](https://vyas-devgna.github.io/Portfolio/donate.html)
 - Tutoring: [vyas-devgna.github.io/Tutoring](https://vyas-devgna.github.io/Tutoring/)
 - GitHub: [github.com/vyas-devgna](https://github.com/vyas-devgna)
 - LinkedIn: [linkedin.com/in/devgna-vyas](https://linkedin.com/in/devgna-vyas)
