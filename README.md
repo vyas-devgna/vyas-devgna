@@ -220,7 +220,7 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 <p align="center">
   <a href="https://github.com/sponsors/vyas-devgna"><img src="https://img.shields.io/badge/Sponsor-@vyas--devgna-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor @vyas-devgna on GitHub" height="32" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://chai4.me/vyasdevgna"><img src="https://vyas-devgna.github.io/Portfolio/images/chai4me-support.png" alt="Chai4Me @vyasdevgna" height="56" /></a>
+  <a href="https://vyas-devgna.github.io/Portfolio/tip.html"><img src="https://vyas-devgna.github.io/Portfolio/images/upi-logo.png" alt="Tip via UPI" height="48" style="border-radius:12px;background:#fff;padding:4px;" /></a>
 </p>
 
 ---
