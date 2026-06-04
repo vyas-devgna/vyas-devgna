@@ -9,12 +9,12 @@
 
 **Software Developer · Android / Backend / Web · Linux + Network Security Focus**
 
-`VOL. 01 · NADIAD, INDIA · CHARUSAT / CMPICA · BCA 2026 · SYSTEMS-FIRST ENGINEERING`
+`NADIAD, INDIA · CHARUSAT / CMPICA · BCA 2026 · SYSTEMS-FIRST ENGINEERING`
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://vyas-devgna.github.io/Portfolio/)
 [![Tutoring](https://img.shields.io/badge/TUTORING%20LIVE-FFD93D?style=for-the-badge&logo=githubpages&logoColor=111111)](https://vyas-devgna.github.io/Tutoring/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-2D5DA1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devgna-vyas)
-[![Email](https://img.shields.io/badge/EMAIL-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devgnav@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyasdevgna@gmail.com)
 
 </div>
 
