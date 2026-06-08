@@ -11,8 +11,8 @@
 
 `NADIAD, INDIA · CHARUSAT / CMPICA · BCA 2026 · SYSTEMS-FIRST ENGINEERING`
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://vyas-devgna.github.io/Portfolio/)
-[![Tutoring](https://img.shields.io/badge/TUTORING%20LIVE-FFD93D?style=for-the-badge&logo=githubpages&logoColor=111111)](https://vyas-devgna.github.io/Tutoring/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://vyasdevgna.online/)
+[![Tutoring](https://img.shields.io/badge/TUTORING%20LIVE-FFD93D?style=for-the-badge&logo=githubpages&logoColor=111111)](https://tutoring.vyasdevgna.online/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-2D5DA1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devgna-vyas)
 [![Email](https://img.shields.io/badge/EMAIL-CC0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyasdevgna@gmail.com)
 
@@ -61,7 +61,7 @@ I am currently a **BCA student at CHARUSAT / CMPICA, Batch of 2026**, and a co-a
 - **Stack:** HTML, CSS, JavaScript, WebRTC, QR pairing, Service Worker
 - **Technical focus:** 5-digit room codes, QR/manual pairing, direct peer transfer, installable PWA shell, no backend server
 - **Status:** Live / actively improving
-- **Links:** [Live App](https://vyas-devgna.github.io/ez-drop/) · [Repository](https://github.com/vyas-devgna/ez-drop)
+- **Links:** [Live App](https://ezdrop.vyasdevgna.online/) · [Repository](https://github.com/vyas-devgna/ez-drop)
 
 ---
 
@@ -72,7 +72,7 @@ I am currently a **BCA student at CHARUSAT / CMPICA, Batch of 2026**, and a co-a
 - **Stack:** HTML, CSS, JavaScript, GitHub Pages
 - **Technical focus:** responsive service layout, pricing/package clarity, enquiry flow, exam-prep positioning, static deployment
 - **Status:** Live
-- **Links:** [Live Site](https://vyas-devgna.github.io/Tutoring/) · [Repository](https://github.com/vyas-devgna/Tutoring)
+- **Links:** [Live Site](https://tutoring.vyasdevgna.online/) · [Repository](https://github.com/vyas-devgna/Tutoring)
 
 ---
 
@@ -83,7 +83,7 @@ I am currently a **BCA student at CHARUSAT / CMPICA, Batch of 2026**, and a co-a
 - **Stack:** HTML, CSS, JavaScript, static GitHub Pages deployment
 - **Technical focus:** editorial visual identity, responsive sections, project case-study presentation, static-first maintainability
 - **Status:** Live
-- **Links:** [Live Site](https://vyas-devgna.github.io/Portfolio/) · [Repository](https://github.com/vyas-devgna/Portfolio)
+- **Links:** [Live Site](https://vyasdevgna.online/) · [Repository](https://github.com/vyas-devgna/Portfolio)
 
 ---
 
@@ -220,7 +220,7 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 <p align="center">
   <a href="https://github.com/sponsors/vyas-devgna"><img src="https://img.shields.io/badge/Sponsor-@vyas--devgna-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor @vyas-devgna on GitHub" height="32" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://vyas-devgna.github.io/Portfolio/tip.html"><img src="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/assets/upi-logo.png" alt="Tip via UPI" width="88" height="31" style="vertical-align:middle;" /></a>
+  <a href="https://vyasdevgna.online/tip"><img src="https://raw.githubusercontent.com/vyas-devgna/vyas-devgna/main/assets/upi-logo.png" alt="Tip via UPI" width="88" height="31" style="vertical-align:middle;" /></a>
 </p>
 
 ---
@@ -229,8 +229,8 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 
 **Open to:** internships, freelance web/mobile work, backend systems, academic software, security-focused engineering discussions, tutoring enquiries, and practical project collaborations.
 
-- Portfolio: [vyas-devgna.github.io/Portfolio](https://vyas-devgna.github.io/Portfolio/)
-- Tutoring: [vyas-devgna.github.io/Tutoring](https://vyas-devgna.github.io/Tutoring/)
+- Portfolio: [vyasdevgna.online](https://vyasdevgna.online/)
+- Tutoring: [tutoring.vyasdevgna.online](https://tutoring.vyasdevgna.online/)
 - GitHub: [github.com/vyas-devgna](https://github.com/vyas-devgna)
 - LinkedIn: [linkedin.com/in/devgna-vyas](https://linkedin.com/in/devgna-vyas)
 - Email: [vyasdevgna@gmail.com](mailto:vyasdevgna@gmail.com)
