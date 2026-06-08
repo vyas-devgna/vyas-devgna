@@ -9,7 +9,7 @@
 
 **Software Developer · Android / Backend / Web · Linux + Network Security Focus**
 
-`NADIAD, INDIA · CHARUSAT / CMPICA · BCA 2026 · SYSTEMS-FIRST ENGINEERING`
+`NADIAD, INDIA · SYSTEMS-FIRST ENGINEERING`
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://vyasdevgna.online/)
 [![Tutoring](https://img.shields.io/badge/TUTORING%20LIVE-FFD93D?style=for-the-badge&logo=githubpages&logoColor=111111)](https://tutoring.vyasdevgna.online/)
@@ -24,7 +24,7 @@
 
 I build practical software across **mobile UX**, **backend reliability**, **static-first web apps**, **Linux tooling**, and **network/security systems**. My work usually starts from the parts that decide whether a product survives real usage: authentication, sessions, deployment constraints, offline behavior, data flow, performance, and failure paths.
 
-I am currently a **BCA student at CHARUSAT / CMPICA, Batch of 2026**, and a co-author of a Springer CCIS conference paper on lightweight network intrusion detection for ARM edge environments.
+I am a backend and systems engineer and a co-author of a Springer CCIS conference paper on lightweight network intrusion detection for ARM edge environments.
 
 > **Operating principle:** keep the interface simple, keep the system understandable, and make the engineering strong enough that the user never has to think about it.
 
