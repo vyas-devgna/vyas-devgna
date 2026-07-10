@@ -9,42 +9,39 @@
   - no unsupported embeds
 -->
 
+<!-- ASCII / TUI profile header -->
 <div align="center">
-
-<h1><samp>DEVGNA VYAS</samp></h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;pause=1100&amp;color=F0F6FC&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Software+Developer;Android+%2F+Backend+%2F+Web;Linux+%2B+Network+Security+Focus;Systems-First+Engineering">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;pause=1100&amp;color=24292F&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Software+Developer;Android+%2F+Backend+%2F+Web;Linux+%2B+Network+Security+Focus;Systems-First+Engineering" alt="Software Developer · Android / Backend / Web · Linux + Network Security Focus" />
-</picture>
-
-<br>
-
-<code>NADIAD, INDIA</code>  ·  <code>SYSTEMS-FIRST ENGINEERING</code>
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-181717?style=flat-square\&logo=githubpages\&logoColor=white)](https://vyasdevgna.online/)
-[![Tutoring](https://img.shields.io/badge/TUTORING%20LIVE-FFD93D?style=flat-square\&logo=githubpages\&logoColor=111111)](https://tutoring.vyasdevgna.online/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/devgna-vyas)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vyasdevgna@gmail.com)
-
-<br>
-
-<a href="#field-notes">FIELD NOTES</a>  ·   <a href="#projects">PROJECTS</a>  ·   <a href="#research">RESEARCH</a>  ·   <a href="#toolbox">TOOLBOX</a>  ·   <a href="#contact">CONTACT</a>
-
+<pre>
++----------------------------------------------------------------------------------+
+| vyas-devgna@github:~$ ./profile --interface=tui                                  |
++==================================================================================+
+|                                                                                  |
+|       ____  _______     ______ _   _    _     __     ____   __ _    ____         |
+|      |  _ \| ____\ \   / / ___| \ | |  / \    \ \   / /\ \ / // \  / ___|        |
+|      | | | |  _|  \ \ / / |  _|  \| | / _ \    \ \ / /  \ V // _ \ \___ \        |
+|      | |_| | |___  \ V /| |_| | |\  |/ ___ \    \ V /    | |/ ___ \ ___) |       |
+|      |____/|_____|  \_/  \____|_| \_/_/   \_\    \_/     |_/_/   \_\____/        |
+|                                                                                  |
+|                            SYSTEMS-FIRST ENGINEERING                             |
+|                  SOFTWARE DEVELOPER :: ANDROID / BACKEND / WEB                   |
+|                          LINUX + NETWORK SECURITY FOCUS                          |
+|                                                                                  |
++==================================================================================+
+| [ IDENTITY ]                                                                     |
+| role      : Software Developer                                                   |
+| domains   : Android / Backend / Web                                              |
+| focus     : Linux + Network Security                                             |
+| location  : Nadiad, India                                                        |
++==================================================================================+
+| [ ENDPOINTS ]                                                                    |
+| <a href="https://vyasdevgna.online/">[01] PORTFOLIO</a>   <a href="https://tutoring.vyasdevgna.online/">[02] TUTORING LIVE</a>   <a href="https://linkedin.com/in/devgna-vyas">[03] LINKEDIN</a>   <a href="mailto:vyasdevgna@gmail.com">[04] EMAIL</a>                 |
+| <a href="#field-notes">[F] FIELD NOTES</a>  <a href="#projects">[P] PROJECTS</a>  <a href="#research">[R] RESEARCH</a>  <a href="#toolbox">[T] TOOLBOX</a>  <a href="#contact">[C] CONTACT</a>            |
++==================================================================================+
+|          mode: SYSTEMS-FIRST  |  render: GITHUB README  |  theme: AUTO           |
+|                 BUILD SMALL / SHIP CLEAN / UNDERSTAND THE SYSTEM                 |
++----------------------------------------------------------------------------------+
+</pre>
 </div>
-
-```text
-┌─ vyas-devgna@github ─────────────────────────────────┐
-│ role      Software Developer                         │
-│ domains   Android · Backend · Web                    │
-│ focus     Linux · Network Security                   │
-│ location  Nadiad, India                              │
-├──────────────────────────────────────────────────────┤
-│ BUILD SMALL · SHIP CLEAN · UNDERSTAND THE SYSTEM     │
-└──────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -69,12 +66,12 @@ I am a backend and systems engineer and a co-author of a Springer CCIS conferenc
 
 > Browser-to-browser file and text transfer through a static web app.
 
-|                     |                                                                                                       |
-| ------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Stack**           | HTML, CSS, JavaScript, WebRTC, QR pairing, Service Worker                                             |
+| | |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript, WebRTC, QR pairing, Service Worker |
 | **Technical focus** | 5-digit room codes, QR/manual pairing, direct peer transfer, installable PWA shell, no backend server |
-| **Status**          | Live / actively improving                                                                             |
-| **Links**           | [Live App](https://ezdrop.vyasdevgna.online/) · [Repository](https://github.com/vyas-devgna/ez-drop)  |
+| **Status** | Live / actively improving |
+| **Links** | [Live App](https://ezdrop.vyasdevgna.online/) · [Repository](https://github.com/vyas-devgna/ez-drop) |
 
 <br>
 
@@ -82,12 +79,12 @@ I am a backend and systems engineer and a co-author of a Springer CCIS conferenc
 
 > Live programming and exam-prep landing page for college students.
 
-|                     |                                                                                                            |
-| ------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Stack**           | HTML, CSS, JavaScript, GitHub Pages                                                                        |
+| | |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript, GitHub Pages |
 | **Technical focus** | responsive service layout, pricing/package clarity, enquiry flow, exam-prep positioning, static deployment |
-| **Status**          | Live                                                                                                       |
-| **Links**           | [Live Site](https://tutoring.vyasdevgna.online/) · [Repository](https://github.com/vyas-devgna/Tutoring)   |
+| **Status** | Live |
+| **Links** | [Live Site](https://tutoring.vyasdevgna.online/) · [Repository](https://github.com/vyas-devgna/Tutoring) |
 
 <br>
 
@@ -95,12 +92,12 @@ I am a backend and systems engineer and a co-author of a Springer CCIS conferenc
 
 > Personal engineering portfolio with projects, research, writing, and contact flow.
 
-|                     |                                                                                                               |
-| ------------------- | ------------------------------------------------------------------------------------------------------------- |
-| **Stack**           | HTML, CSS, JavaScript, static GitHub Pages deployment                                                         |
+| | |
+|---|---|
+| **Stack** | HTML, CSS, JavaScript, static GitHub Pages deployment |
 | **Technical focus** | editorial visual identity, responsive sections, project case-study presentation, static-first maintainability |
-| **Status**          | Live                                                                                                          |
-| **Links**           | [Live Site](https://vyasdevgna.online/) · [Repository](https://github.com/vyas-devgna/Portfolio)              |
+| **Status** | Live |
+| **Links** | [Live Site](https://vyasdevgna.online/) · [Repository](https://github.com/vyas-devgna/Portfolio) |
 
 <br>
 
@@ -108,13 +105,13 @@ I am a backend and systems engineer and a co-author of a Springer CCIS conferenc
 
 > Flutter Android client for Same.Energy's visual search experience.
 
-|                     |                                                                                                                                          |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stack**           | Flutter, Dart, Riverpod, GoRouter, Dio, Secure Storage                                                                                   |
+| | |
+|---|---|
+| **Stack** | Flutter, Dart, Riverpod, GoRouter, Dio, Secure Storage |
 | **Technical focus** | Clean Architecture, reactive state boundaries, API integration, authentication/security, image-heavy mobile UI, caching/offline behavior |
-| **Role**            | Technical architecture and Flutter implementation contributor                                                                            |
-| **Status**          | Open-source fork / mobile client                                                                                                         |
-| **Links**           | [Repository](https://github.com/vyas-devgna/same-energy-android)                                                                         |
+| **Role** | Technical architecture and Flutter implementation contributor |
+| **Status** | Open-source fork / mobile client |
+| **Links** | [Repository](https://github.com/vyas-devgna/same-energy-android) |
 
 <br>
 
@@ -122,12 +119,12 @@ I am a backend and systems engineer and a co-author of a Springer CCIS conferenc
 
 > Secure attendance verification system designed to reduce proxy marking and location spoofing.
 
-|                     |                                                                                                                                           |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| **Stack**           | Go, Gin, Flutter, PostgreSQL, Redis, WebSockets, QR verification, face liveness, BLE proximity                                            |
+| | |
+|---|---|
+| **Stack** | Go, Gin, Flutter, PostgreSQL, Redis, WebSockets, QR verification, face liveness, BLE proximity |
 | **Technical focus** | JWT/RBAC, audit logs, rotating signed QR codes, real-time admin dashboard, report generation, multi-factor physical-presence verification |
-| **Status**          | Academic / private system design and implementation work                                                                                  |
-| **Links**           | Mentioned in portfolio and project documentation                                                                                          |
+| **Status** | Academic / private system design and implementation work |
+| **Links** | Mentioned in portfolio and project documentation |
 
 ---
 
@@ -137,23 +134,23 @@ I am a backend and systems engineer and a co-author of a Springer CCIS conferenc
 
 ### HERMES: Hybrid AI/ML Network Security on ARM Edge Clusters
 
-<kbd>SPRINGER CCIS</kbd>  <kbd>icSoftComp 2025</kbd>  <kbd>EDGE SECURITY</kbd>
+<kbd>SPRINGER CCIS</kbd>&nbsp;&nbsp;<kbd>icSoftComp 2025</kbd>&nbsp;&nbsp;<kbd>EDGE SECURITY</kbd>
 
 <br>
 
-**Publication:** Springer CCIS · icSoftComp 2025
-**Authors:** Arpankumar G. Raval, Devgna Vyas
+**Publication:** Springer CCIS · icSoftComp 2025  
+**Authors:** Arpankumar G. Raval, Devgna Vyas  
 **Theme:** Lightweight network intrusion detection for low-power edge environments
 
 HERMES combines a rule-based filtering layer with compact ML inference for ARM-based edge nodes. The work focuses on making intrusion detection practical under real deployment constraints: limited power budget, small hardware, network throughput, and model efficiency.
 
-| Signal                | Detail                                                                       |
-| :-------------------- | :--------------------------------------------------------------------------- |
-| **Domain**            | Network intrusion detection, edge security, ARM systems                      |
-| **Core idea**         | Hybrid signature filtering + compact ML classifier                           |
-| **Platform focus**    | Low-power ARM / edge cluster environments                                    |
-| **Publication venue** | Soft Computing and Its Engineering Applications, Springer CCIS               |
-| **DOI**               | [10.1007/978-3-032-22062-2_24](https://doi.org/10.1007/978-3-032-22062-2_24) |
+| Signal | Detail |
+|:---|:---|
+| **Domain** | Network intrusion detection, edge security, ARM systems |
+| **Core idea** | Hybrid signature filtering + compact ML classifier |
+| **Platform focus** | Low-power ARM / edge cluster environments |
+| **Publication venue** | Soft Computing and Its Engineering Applications, Springer CCIS |
+| **DOI** | [10.1007/978-3-032-22062-2_24](https://doi.org/10.1007/978-3-032-22062-2_24) |
 
 ---
 
@@ -165,13 +162,13 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 <summary><strong>Languages</strong></summary>
 <br>
 
-![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square\&logo=dart\&logoColor=0175C2)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript\&logoColor=FFD93D)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-111111?style=flat-square\&logo=go\&logoColor=00ADD8)
-![Java](https://img.shields.io/badge/Java-111111?style=flat-square\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=postgresql\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square\&logo=gnubash\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=0175C2)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=FFD93D)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=00ADD8)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=white)
 
 </details>
 
@@ -179,13 +176,13 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 <summary><strong>Mobile / Frontend</strong></summary>
 <br>
 
-![Flutter](https://img.shields.io/badge/Flutter-2D5DA1?style=flat-square\&logo=flutter\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-2D5DA1?style=flat-square\&logo=android\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-2D5DA1?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-2D5DA1?style=flat-square&logo=android&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-2D5DA1?style=flat-square)
-![React](https://img.shields.io/badge/React-2D5DA1?style=flat-square\&logo=react\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2D5DA1?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2D5DA1?style=flat-square\&logo=css3\&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-2D5DA1?style=flat-square\&logo=pwa\&logoColor=white)
+![React](https://img.shields.io/badge/React-2D5DA1?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-2D5DA1?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2D5DA1?style=flat-square&logo=css3&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-2D5DA1?style=flat-square&logo=pwa&logoColor=white)
 
 </details>
 
@@ -194,14 +191,14 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 <br>
 
 ![Go Gin](https://img.shields.io/badge/Go%20Gin-CC0000?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-CC0000?style=flat-square\&logo=flask\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-CC0000?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-CC0000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-CC0000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-CC0000?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CC0000?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-CC0000?style=flat-square\&logo=mysql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-CC0000?style=flat-square\&logo=sqlite\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-CC0000?style=flat-square\&logo=redis\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-CC0000?style=flat-square\&logo=firebase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-CC0000?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-CC0000?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-CC0000?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-CC0000?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-CC0000?style=flat-square&logo=firebase&logoColor=white)
 
 </details>
 
@@ -209,11 +206,11 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 <summary><strong>Systems / Security / Tools</strong></summary>
 <br>
 
-![Linux](https://img.shields.io/badge/Linux-D4AF37?style=flat-square\&logo=linux\&logoColor=111111)
-![Docker](https://img.shields.io/badge/Docker-D4AF37?style=flat-square\&logo=docker\&logoColor=111111)
-![Git](https://img.shields.io/badge/Git-D4AF37?style=flat-square\&logo=git\&logoColor=111111)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-D4AF37?style=flat-square\&logo=githubactions\&logoColor=111111)
-![Wireshark](https://img.shields.io/badge/Wireshark-D4AF37?style=flat-square\&logo=wireshark\&logoColor=111111)
+![Linux](https://img.shields.io/badge/Linux-D4AF37?style=flat-square&logo=linux&logoColor=111111)
+![Docker](https://img.shields.io/badge/Docker-D4AF37?style=flat-square&logo=docker&logoColor=111111)
+![Git](https://img.shields.io/badge/Git-D4AF37?style=flat-square&logo=git&logoColor=111111)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-D4AF37?style=flat-square&logo=githubactions&logoColor=111111)
+![Wireshark](https://img.shields.io/badge/Wireshark-D4AF37?style=flat-square&logo=wireshark&logoColor=111111)
 ![Nmap](https://img.shields.io/badge/Nmap-D4AF37?style=flat-square)
 ![WebRTC](https://img.shields.io/badge/WebRTC-D4AF37?style=flat-square)
 
@@ -223,13 +220,13 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 
 ## `05 / CURRENT SIGNAL`
 
-| Signal | Current work                                                                                |
-| :----: | :------------------------------------------------------------------------------------------ |
-|  `01`  | Building **static-first web apps** that deploy cleanly on GitHub Pages.                     |
-|  `02`  | Improving **PWA/WebRTC utilities** with simpler UI and faster connection logic.             |
-|  `03`  | Keeping **Tutoring** live as a practical service page for programming and exam preparation. |
-|  `04`  | Exploring **Linux systems**, security tooling, and low-overhead network defense.            |
-|  `05`  | Refining **Flutter client architecture** for fast, polished Android experiences.            |
+| Signal | Current work |
+|:---:|:---|
+| `01` | Building **static-first web apps** that deploy cleanly on GitHub Pages. |
+| `02` | Improving **PWA/WebRTC utilities** with simpler UI and faster connection logic. |
+| `03` | Keeping **Tutoring** live as a practical service page for programming and exam preparation. |
+| `04` | Exploring **Linux systems**, security tooling, and low-overhead network defense. |
+| `05` | Refining **Flutter client architecture** for fast, polished Android experiences. |
 
 ---
 
@@ -284,13 +281,13 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 
 ## `08 / BUILD LOG`
 
-| Area         | What I care about                                                                  |
-| :----------- | :--------------------------------------------------------------------------------- |
-| **Backend**  | clean APIs, predictable auth, session handling, reliable data flow                 |
-| **Mobile**   | responsive UI, offline behavior, state management, secure storage                  |
-| **Web**      | static deployment, GitHub Pages, PWA installability, no-backend utilities          |
-| **Security** | protocol thinking, network inspection, anti-spoofing, auditability                 |
-| **Systems**  | Linux workflows, automation, low-complexity engineering                            |
+| Area | What I care about |
+|:---|:---|
+| **Backend** | clean APIs, predictable auth, session handling, reliable data flow |
+| **Mobile** | responsive UI, offline behavior, state management, secure storage |
+| **Web** | static deployment, GitHub Pages, PWA installability, no-backend utilities |
+| **Security** | protocol thinking, network inspection, anti-spoofing, auditability |
+| **Systems** | Linux workflows, automation, low-complexity engineering |
 | **Teaching** | practical explanations, exam-focused structure, beginner-friendly project guidance |
 
 ---
@@ -303,13 +300,13 @@ HERMES combines a rule-based filtering layer with compact ML inference for ARM-b
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/vyasdevgna.online-181717?style=for-the-badge\&logo=githubpages\&logoColor=white)](https://vyasdevgna.online/)
-[![Tutoring](https://img.shields.io/badge/tutoring.vyasdevgna.online-FFD93D?style=for-the-badge\&logo=githubpages\&logoColor=111111)](https://tutoring.vyasdevgna.online/)
+[![Portfolio](https://img.shields.io/badge/vyasdevgna.online-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://vyasdevgna.online/)
+[![Tutoring](https://img.shields.io/badge/tutoring.vyasdevgna.online-FFD93D?style=for-the-badge&logo=githubpages&logoColor=111111)](https://tutoring.vyasdevgna.online/)
 
-[![GitHub](https://img.shields.io/badge/github.com%2Fvyas--devgna-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/vyas-devgna)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fdevgna--vyas-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/devgna-vyas)
-[![Email](https://img.shields.io/badge/vyasdevgna%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:vyasdevgna@gmail.com)
-[![Research](https://img.shields.io/badge/HERMES%20ON%20SPRINGER-1155CC?style=flat-square\&logo=springer\&logoColor=white)](https://doi.org/10.1007/978-3-032-22062-2_24)
+[![GitHub](https://img.shields.io/badge/github.com%2Fvyas--devgna-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vyas-devgna)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fdevgna--vyas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devgna-vyas)
+[![Email](https://img.shields.io/badge/vyasdevgna%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vyasdevgna@gmail.com)
+[![Research](https://img.shields.io/badge/HERMES%20ON%20SPRINGER-1155CC?style=flat-square&logo=springer&logoColor=white)](https://doi.org/10.1007/978-3-032-22062-2_24)
 
 </div>
 
