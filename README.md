@@ -100,18 +100,18 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vyas-devgna&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=00000000">
-  <img height="165" alt="GitHub stats for Devgna Vyas" src="https://github-readme-stats.vercel.app/api?username=vyas-devgna&show_icons=true&hide_border=true&rank_icon=github&theme=default&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vyas-devgna&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=github_dark&amp;bg_color=00000000">
+  <img height="165" alt="GitHub stats for Devgna Vyas" src="https://github-readme-stats.vercel.app/api?username=vyas-devgna&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=default&amp;bg_color=00000000">
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&hide_border=true&theme=github-dark&background=00000000">
-  <img height="165" alt="GitHub Streak for Devgna Vyas" src="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&hide_border=true&theme=default&background=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&amp;hide_border=true&amp;theme=github-dark&amp;background=00000000">
+  <img height="165" alt="GitHub Streak for Devgna Vyas" src="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&amp;hide_border=true&amp;theme=default&amp;background=00000000">
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vyas-devgna&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000">
-  <img height="165" alt="Top languages for Devgna Vyas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyas-devgna&layout=compact&hide_border=true&theme=default&bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vyas-devgna&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000">
+  <img height="165" alt="Top languages for Devgna Vyas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyas-devgna&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000">
 </picture>
 
 </div>
