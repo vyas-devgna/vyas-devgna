@@ -100,8 +100,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vyas-devgna&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=github_dark&amp;bg_color=00000000">
-  <img height="165" alt="GitHub stats for Devgna Vyas" src="https://github-readme-stats.vercel.app/api?username=vyas-devgna&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=default&amp;bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=vyas-devgna&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=github_dark&amp;bg_color=00000000">
+  <img height="165" alt="GitHub stats for Devgna Vyas" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyas-devgna&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=default&amp;bg_color=00000000">
 </picture>
 &nbsp;
 <picture>
@@ -110,8 +110,8 @@
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vyas-devgna&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000">
-  <img height="165" alt="Top languages for Devgna Vyas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyas-devgna&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyas-devgna&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000">
+  <img height="165" alt="Top languages for Devgna Vyas" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyas-devgna&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000">
 </picture>
 
 </div>
