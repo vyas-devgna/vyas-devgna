@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Devgna%20Vyas&fontSize=70&fontAlignY=35&desc=Systems%20Engineer%20•%20Researcher%20•%20Open%20Source%20Builder&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Vyas%20Devgna&fontSize=70&fontAlignY=35&desc=Systems%20Engineer%20•%20Researcher%20•%20Open%20Source%20Builder&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 <br>
 
-I’m **Devgna Vyas**, also listed as **Vyas Devgna**. Explore my [official portfolio](https://vyasdevgna.online/) for projects and research, and [Devgna Vyas Blog](https://blog.vyasdevgna.online/) for essays on systems engineering, AI agent security, networking, and open source.
+I’m **Vyas Devgna**, also known as **Devgna Vyas**. Explore my [official portfolio](https://vyasdevgna.online/) for projects and research, and [Vyas Devgna Blog](https://blog.vyasdevgna.online/) for essays on systems engineering, AI agent security, networking, and open source.
 
 ## 🔬 Research & Principles
 
@@ -103,17 +103,17 @@ I’m **Devgna Vyas**, also listed as **Vyas Devgna**. Explore my [official port
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=vyas-devgna&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=github_dark&amp;bg_color=00000000">
-  <img height="165" alt="GitHub stats for Devgna Vyas" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyas-devgna&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=default&amp;bg_color=00000000">
+  <img height="165" alt="GitHub stats for Vyas Devgna" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vyas-devgna&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=default&amp;bg_color=00000000">
 </picture>
 &nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&amp;hide_border=true&amp;theme=github-dark&amp;background=00000000">
-  <img height="165" alt="GitHub Streak for Devgna Vyas" src="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&amp;hide_border=true&amp;theme=default&amp;background=00000000">
+  <img height="165" alt="GitHub Streak for Vyas Devgna" src="https://github-readme-streak-stats.herokuapp.com/?user=vyas-devgna&amp;hide_border=true&amp;theme=default&amp;background=00000000">
 </picture>
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyas-devgna&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=00000000">
-  <img height="165" alt="Top languages for Devgna Vyas" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyas-devgna&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000">
+  <img height="165" alt="Top languages for Vyas Devgna" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vyas-devgna&amp;layout=compact&amp;hide_border=true&amp;theme=default&amp;bg_color=00000000">
 </picture>
 
 </div>
@@ -130,7 +130,7 @@ I’m **Devgna Vyas**, also listed as **Vyas Devgna**. Explore my [official port
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub contribution graph for Devgna Vyas" width="100%">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D GitHub contribution graph for Vyas Devgna" width="100%">
 </picture>
 
 <sub><strong>Auto-generated field map:</strong> GitHub Actions rebuilds these SVG assets from the contribution graph.</sub>
