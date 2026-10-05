@@ -20,6 +20,8 @@
 
 <br>
 
+I’m **Devgna Vyas**, also listed as **Vyas Devgna**. Explore my [official portfolio](https://vyasdevgna.online/) for projects and research, and [Devgna Vyas Blog](https://blog.vyasdevgna.online/) for essays on systems engineering, AI agent security, networking, and open source.
+
 ## 🔬 Research & Principles
 
 - **HERMES (Edge Security):** Co-author of a Springer CCIS conference paper (*icSoftComp 2025*) on lightweight network intrusion detection (Hybrid AI/ML) for ARM edge environments. [![DOI](https://img.shields.io/badge/Springer_CCIS-1155CC?style=flat-square)](https://doi.org/10.1007/978-3-032-22062-2_24)
